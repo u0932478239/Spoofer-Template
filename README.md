@@ -9,7 +9,7 @@ A spoofer template with SSL pinning, file integrity checks, and much more! (Uses
 
 # Documentation
 ```
-Just change the drivers and the auth info!
+Just change the drivers and the auth info! You may need to update the SLL Pinning if Discord changes their certificate.
 ```
 
 # Credit
