@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/yungsamzy/simpslib/badge)](https://www.codefactor.io/repository/github/yungsamzy/simpslib)
+[![CodeFactor](https://www.codefactor.io/repository/github/yungsamzy/spoofer-template/badge)](https://www.codefactor.io/repository/github/yungsamzy/spoofer-template)
 
 # Info
 
