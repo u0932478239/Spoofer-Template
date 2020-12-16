@@ -21,4 +21,4 @@ Mapper and Drivers Used: [Valglow Cracked](https://github.com/HappyCatOfficial/V
 
 My Website: https://samzydev.xyz
 
-My Discord: Simp#0174
+My Discord: </Simp>#7180
